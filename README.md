@@ -1,0 +1,12 @@
+---
+title: GharIQ
+emoji: 🦀
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+license: mit
+short_description: ML estimator for Indian home prices — FastAPI + scikit-learn
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
