@@ -55,7 +55,7 @@ Property Price Index for India) powers the trend chart and the 2025 price adjust
 | Residential Property Price Index for India (BIS) | quarterly house-price index | FRED | 2009 → 2025 |
 
 ➡️ **The model is trained on listings spanning roughly `2020–2023`** (about 3 years of
-real market data). Full citations are in [`DATA_SOURCES.md`](DATA_SOURCES.md).
+real market data). like Kaggle , HF and other Platform 
 
 ### Working with *genuine* data only
 
